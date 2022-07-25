@@ -17,6 +17,21 @@ Currently support English and Chinese queries. Supported websites include Google
 
 By default, the [AOL search dataset](https://jeffhuang.com/search_query_logs.html) is used as English query set, and the [THU Open Chinese Lexicon](http://thuocl.thunlp.org/) (THUOCL) is used as Chinese query set. The default keystroke timing model is trained on the [136M keystroke dataset](https://userinterfaces.aalto.fi/136Mkeystrokes/).
 
+#### Reference Format
+```
+@article{LiLLZ21,
+  author    = {Ding Li and
+               Wei Lin and
+               Bin Lu and
+               Yuefei Zhu},
+  title     = {Exploiting side-channel leaks in web traffic of incremental search},
+  journal   = {Comput. Secur.},
+  volume    = {111},
+  pages     = {102481},
+  year      = {2021},
+  doi       = {10.1016/j.cose.2021.102481}
+}
+```
 
 ## Installation
 
